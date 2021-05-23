@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### ⚒ - I'm currently building meta conversational tooling, imagine a magic all in one **Inbox**  
+#### ⚒ - I'm currently building meta conversational tooling -- imagine a magic all in one **Inbox**  
 (WhatsApp + SMS + FB Messenger + Email + GoogleBusinessMessages & more > [Charles Inbox](https://www.hello-charles.com/))
 
 #### 🗺 - Located in Berlin
