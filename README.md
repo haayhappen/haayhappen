@@ -9,10 +9,10 @@
 
 &emsp;
 
-![Fynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=haayhappen&count_private=true&show_icons=true&theme=vue)    
+<!-- ![Fynn's GitHub stats](https://github-readme-stats.vercel.app/api?username=haayhappen&count_private=true&show_icons=true&theme=vue)     -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haayhappen&theme=vue) -->
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haayhappen&theme=vue)
 
 **haayhappen/haayhappen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
